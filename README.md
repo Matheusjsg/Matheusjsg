@@ -38,36 +38,21 @@ Atualmente focado em **desenvolvimento back-end com Java e Spring Boot**, criand
 
 ## ⚙️ **Stack & Conhecimentos Técnicos**
 
-### 🧩 Linguagens e Conceitos
+<p align="center">
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original.svg" width="45" height="45" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/spring/spring-original.svg" width="45" height="45" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" width="45" height="45" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" width="45" height="45" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" width="45" height="45" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" width="45" height="45" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original.svg" width="45" height="45" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/postgresql/postgresql-original.svg" width="45" height="45" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/docker/docker-original.svg" width="45" height="45" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/kubernetes/kubernetes-plain.svg" width="45" height="45" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" width="45" height="45" />
+  <p align="center"/>
 
-☕ **Java** • 💻 **JavaScript** • 🐍 **Python** • 🌐 **HTML5** • 🎨 **CSS3** • 🧾 **SQL** • 🔗 **HTTP / JSON**
 
-### 🧱 Frameworks & Bibliotecas
-
-🌱 **Spring Boot** • 🔐 **Spring Security / JWT** • 🧩 **Spring Data JPA** • ⚙️ **Hibernate** • 🎯 **Bootstrap**
-
-### 🗄️ Bancos de Dados
-
-🐬 **MySQL** • 🐘 **PostgreSQL** • 🧮 **Flyway** • 🧱 **Modelagem UML**
-
-### 🧰 Ferramentas e Ambientes
-
-🧑‍💻 **IntelliJ IDEA** • 📝 **VS Code** • 🧩 **Maven** • 🐳 **Docker** • ☸️ **Kubernetes** • ☁️ **AWS (EC2, S3)**
-🐧 **Linux** • 🧪 **Postman** • 🔀 **Git & GitHub**
-
-### 🧪 Testes
-
-🧫 **JUnit5** • 🧠 **Mockito**
-
-### 🚀 Metodologias e Boas Práticas
-
-📈 **Scrum** • ⚡ **Kanban** • 🧹 **Clean Code** • 🧠 **Design Patterns** • 🧱 **Clean Architecture** • 🧭 **SOLID**
-
-### 💡 Conceitos-Chave
-
-🔗 **APIs RESTful** • 🧍‍♂️ **POO** • 🧩 **Programação Funcional** • ☁️ **Microserviços** • 🔒 **Segurança da Informação** • 🧮 **Estruturas de Dados**
-
----
 
 ## 💼 **Soft Skills**
 
@@ -83,4 +68,29 @@ Atualmente focado em **desenvolvimento back-end com Java e Spring Boot**, criand
 ⭐ *“O código limpo sempre parece ter sido escrito por alguém que se importava.”*
 — *Robert C. Martin (Uncle Bob)*
 
+
+
+
+
+
+
+# 👋 Olá! Eu sou o **Matheus Jesus**
+
+🎯 *Desenvolvedor Back-end Java | Spring Boot | AWS | APIs RESTful*
+💡 Apaixonado por resolver problemas e construir soluções escaláveis, seguras e performáticas.
+
+---
+
+## 🧠 **Sobre Mim**
+
+Sou estudante de **Análise e Desenvolvimento de Sistemas** pelo **Centro Universitário Internacional – UNINTER**
+📅 *Conclusão prevista: Junho/2027*
+
+Atualmente focado em **desenvolvimento back-end com Java e Spring Boot**, criando **APIs RESTful**, autenticação com **JWT e Spring Security**, versionamento com **Flyway** e integração com **bancos de dados MySQL e PostgreSQL**.
+
+💻 Apaixonado por boas práticas de engenharia de software — aplicando **Clean Code, SOLID, Design Patterns e Arquitetura Limpa**.
+
+🚀 Busco evoluir profissionalmente através de desafios reais, colaboração em equipe e aprendizado contínuo.
+
+---
 
