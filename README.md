@@ -1,6 +1,8 @@
-## # # 👋 Olá! Eu sou o **Matheus Jesus**
+👋 Olá! Eu sou o **Matheus Jesus**
 
 🎯 *Desenvolvedor Back-end Java | Spring Boot | AWS | APIs RESTful*
+Sou estudante de **Análise e Desenvolvimento de Sistemas** pelo **Centro Universitário Internacional – UNINTER**
+📅 *Conclusão prevista: Junho/2027*
 💡 Apaixonado por resolver problemas e construir soluções escaláveis, seguras e performáticas.
 
 ---
@@ -21,27 +23,13 @@
 [![Email](https://img.shields.io/badge/Email-D14836?style=for-the-badge\&logo=gmail\&logoColor=white)](mailto:matheusjesusdev@gmail.com)
 [![Portfólio](https://img.shields.io/badge/Portfólio-4CAF50?style=for-the-badge\&logo=firefox\&logoColor=white)](http://matheusjsg.dev.com.s3-website-us-east-1.amazonaws.com/)
 
----
-
-## 🧠 **Sobre Mim**
-
-Sou estudante de **Análise e Desenvolvimento de Sistemas** pelo **Centro Universitário Internacional – UNINTER**
-📅 *Conclusão prevista: Junho/2027*
-
-Atualmente focado em **desenvolvimento back-end com Java e Spring Boot**, criando **APIs RESTful**, autenticação com **JWT e Spring Security**, versionamento com **Flyway** e integração com **bancos de dados MySQL e PostgreSQL**.
-
-💻 Apaixonado por boas práticas de engenharia de software — aplicando **Clean Code, SOLID, Design Patterns e Arquitetura Limpa**.
-
-🚀 Busco evoluir profissionalmente através de desafios reais, colaboração em equipe e aprendizado contínuo.
-
----
-
 ## ⚙️ **Stack & Conhecimentos Técnicos**
 
 <p align="center">
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original.svg" width="45" height="45" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/spring/spring-original.svg" width="45" height="45" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" width="45" height="45" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/amazonwebservices/amazonwebservices-original.svg" width="45" height="45" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" width="45" height="45" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" width="45" height="45" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" width="45" height="45" />
@@ -67,30 +55,3 @@ Atualmente focado em **desenvolvimento back-end com Java e Spring Boot**, criand
 
 ⭐ *“O código limpo sempre parece ter sido escrito por alguém que se importava.”*
 — *Robert C. Martin (Uncle Bob)*
-
-
-
-
-
-
-
-# 👋 Olá! Eu sou o **Matheus Jesus**
-
-🎯 *Desenvolvedor Back-end Java | Spring Boot | AWS | APIs RESTful*
-💡 Apaixonado por resolver problemas e construir soluções escaláveis, seguras e performáticas.
-
----
-
-## 🧠 **Sobre Mim**
-
-Sou estudante de **Análise e Desenvolvimento de Sistemas** pelo **Centro Universitário Internacional – UNINTER**
-📅 *Conclusão prevista: Junho/2027*
-
-Atualmente focado em **desenvolvimento back-end com Java e Spring Boot**, criando **APIs RESTful**, autenticação com **JWT e Spring Security**, versionamento com **Flyway** e integração com **bancos de dados MySQL e PostgreSQL**.
-
-💻 Apaixonado por boas práticas de engenharia de software — aplicando **Clean Code, SOLID, Design Patterns e Arquitetura Limpa**.
-
-🚀 Busco evoluir profissionalmente através de desafios reais, colaboração em equipe e aprendizado contínuo.
-
----
-
