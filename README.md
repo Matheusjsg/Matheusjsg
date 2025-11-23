@@ -27,15 +27,15 @@ Sou estudante de **Análise e Desenvolvimento de Sistemas** pelo **Centro Univer
 ## 📊 **Estatísticas GitHub**
 
 <p align="center">
-  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=matheusjesus&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true"/>
-  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=matheusjesus&layout=compact&langs_count=7&theme=tokyonight"/>
+  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=matheusjsg&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true"/>
+  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=matheusjsglayout=compact&langs_count=7&theme=tokyonight"/>
 </p>
 
 ---
 
 ## 🌐 **Conecte-se Comigo**
 
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge\&logo=linkedin\&logoColor=white)](https://linkedin.com/in/matheusjesus)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge\&logo=linkedin\&logoColor=white)](https://linkedin.com/in/matheusjsg)
 [![GitHub](https://img.shields.io/badge/GitHub-171515?style=for-the-badge\&logo=github\&logoColor=white)](https://github.com/matheusjesus)
 [![Email](https://img.shields.io/badge/Email-D14836?style=for-the-badge\&logo=gmail\&logoColor=white)](mailto:matheusjesusdev@gmail.com)
 [![Portfólio](https://img.shields.io/badge/Portfólio-4CAF50?style=for-the-badge\&logo=firefox\&logoColor=white)](http://matheusjsg.dev.com.s3-website-us-east-1.amazonaws.com/)
