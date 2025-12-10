@@ -8,6 +8,8 @@ Sou estudante de **Análise e Desenvolvimento de Sistemas** pelo **Centro Univer
 
 💡 Apaixonado por resolver problemas e construir soluções escaláveis, seguras e performáticas.
 
+---
+## ⚙️ **Stack & Conhecimentos Técnicos**
 
 <p align="center">
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original.svg" width="35" height="35" />
@@ -32,7 +34,7 @@ Sou estudante de **Análise e Desenvolvimento de Sistemas** pelo **Centro Univer
 [![Email](https://img.shields.io/badge/Email-D14836?style=for-the-badge\&logo=gmail\&logoColor=white)](mailto:matheussantos930@gmail.com)
 [![Portfólio](https://img.shields.io/badge/Portfólio-4CAF50?style=for-the-badge\&logo=firefox\&logoColor=white)](http://matheusjsg.dev.com.s3-website-us-east-1.amazonaws.com/)
 
-## ⚙️ **Stack & Conhecimentos Técnicos**
+
 
 
 ⭐ *“O código limpo sempre parece ter sido escrito por alguém que se importava.”*
