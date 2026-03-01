@@ -1,6 +1,6 @@
 👋 Olá! Eu sou o **Matheus Jesus**
 
-🎯 *Desenvolvedor Back-end Java | Spring Boot | AWS | APIs RESTful*
+🎯 *Desenvolvedor Java | React | Spring Boot | AWS | APIs RESTful*
 
 Sou estudante de **Análise e Desenvolvimento de Sistemas** pelo **Centro Universitário Internacional – UNINTER**
 
